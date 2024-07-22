@@ -1,2 +1,2 @@
 # LethalVanillaPlus
-Lethal Company Vanilla Modpack, Many QoL Features, Better Hosting, Numerous Bug Fixes/Improvements
+Vanilla Modpack, Many QoL Features, Better Hosting, Numerous Bug Fixes/Improvements
