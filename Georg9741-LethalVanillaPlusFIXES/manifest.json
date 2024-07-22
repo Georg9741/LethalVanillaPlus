@@ -8,7 +8,9 @@
         "FlipMods-LetMeLookDown-1.0.1",
         "TestAccount666-TestAccountCore-1.2.1",
         "TestAccount666-TestAccountFixes-1.3.4",
+        "Evaisa-HookGenPatcher-0.0.5",
         "4902-No_Console_Spam-1.3.0",
+        "SylviBlossom-TerminalConflictFix-1.2.2",
         "AdiBTW-Loadstone-0.1.13",
         "ButteryStancakes-ButteryFixes-1.5.7",
         "ButteryStancakes-EnemySoundFixes-1.5.2",
@@ -26,8 +28,6 @@
         "mattymatty-Matty_Fixes-1.0.21",
         "mrov-ApparatusFix-0.0.1",
         "rooni-BetterTerminal-0.1.1",
-        "Evaisa-HookGenPatcher-0.0.5",
-        "SylviBlossom-TerminalConflictFix-1.2.2",
         "Zaggy1024-PathfindingLagFix-1.2.1"
     ]
 }
