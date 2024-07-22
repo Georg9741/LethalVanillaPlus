@@ -5,7 +5,7 @@
 **Compatibility: v56+**
 
 ### Thunderstore Import Code
-**0190d0c4-779e-b475-6ea8-38ac924bf2d5** _v2.0.0_
+**0190dcd0-2459-f285-1da5-088f6e14c46c** _v2.1.0_
 
 ## Summary
 - **Detailed Discord Rich Presence**
@@ -82,7 +82,7 @@
   - **45-Degree Furniture Rotation (Default: `LMB`)**
 - SuitSaver
   - **Your Last Used Suit Is Saved**
-### UI Elements
+### Graphical Elements
 - DiscountAlert
   - **Store Discount Notifier**
 - OdinSerializer _(Dependency)_
@@ -127,7 +127,9 @@
   - **Automatic Inventory Fix (Manual: `,`)**  
     _(Activating the fix manually will cause you to enter the glitched state!)_
   - **Item Grab Fix (Bypass: `Left Shift`)**
+- HookGenPatcher _(Dependency)_
 - No Console Spam
+- TerminalConflictFix
 - Loadstone
 - ButteryFixes
 - EnemySoundFixes
@@ -145,6 +147,4 @@
 - Matty Fixes
 - ApparatusFix
 - BetterTerminal
-- HookGenPatcher _(Dependency)_
-- TerminalConflictFix
 - PathfindingLagFix
