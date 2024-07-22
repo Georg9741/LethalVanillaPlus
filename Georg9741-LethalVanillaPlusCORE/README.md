@@ -1,0 +1,45 @@
+# LethalVanillaPlusCORE
+This package includes the core mods contained within [LethalVanillaPlus](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/)
+
+## Config changes
+- BetterSpectator.cfg
+  - [General]
+    - Show Cause Of Death = false
+    - Enable Extra Input = false
+- butterystancakes.lethalcompany.accuratestaminadisplay.cfg
+  - [Misc]
+    - ExhaustionIndicator = ChangeColor
+- CelestialTint.cfg
+  - [1. Planets]
+    - PlanetTagMappings = Embrion@Argon
+- dev.flero.lethal.FastStartup.cfg
+  - [Skips]
+    - MenuAnim = false
+- discount.alert.cfg
+  - [Alert]
+    - DelayAfterLeverIsPulled = 6
+    - AlertEnabledWhenNoDiscounts = false
+- Fusition.BetterSpectate.cfg
+  - [General Settings]
+    - Default to First Person = false
+    - First Person Keybind = V
+- TestAccount666.GoodItemScan.cfg
+  - [Special Cases]
+    - Show opened blast door scan node = false
+- TestAccount666.ScannableTools.cfg
+  - [Items]
+    - Blacklisted Items = polaroid, test, clipboard
+- TestAccount666.ShipWindows.cfg
+  - [General]
+    - VanillaMode = true
+    - WindowMaterial = REFRACTION
+    - EnableWindowShutter = false
+    - EnableWindow3 = false
+  - [Misc]
+    - Enable Wesley shutter voice lines = false
+- Zaggy1024.OpenBodyCams.cfg
+  - [Camera]
+    - HorizontalResolution = 60
+    - Framerate = 12
+  - [ShipUpgrade]
+    - Enabled = false
