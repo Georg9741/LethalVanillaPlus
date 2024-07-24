@@ -1,3 +1,7 @@
+## 2.2.1
+- Mods
+  - Updated (1)
+
 ## 2.2.0
 - Mods
   - `24HourClock` replaced by `LCBetterClock`

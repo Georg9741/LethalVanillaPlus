@@ -5,7 +5,7 @@
 **Compatibility: v56+**
 
 ### Thunderstore Import Code
-**0190dcd0-2459-f285-1da5-088f6e14c46c** _v2.1.0_
+**0190e6eb-765e-5543-2289-3cf15c076bf9** _v2.2.1_
 
 ## Summary
 - **Detailed Discord Rich Presence**
@@ -18,7 +18,7 @@
 - **Improved Terminal**
 - **Improved Spectator**
 - **Better Hosting** (3 Mods)
-- **Numerous Bug Fixes/Improvements** (24 Mods)
+- **Numerous Bug Fixes/Improvements** (25 Mods)
 
 # Mods: 60+
 ### Game
@@ -134,6 +134,7 @@
 - No Console Spam
 - TerminalConflictFix
 - Loadstone
+- BarberFixes
 - ButteryFixes
 - EnemySoundFixes
 - JetpackFixes

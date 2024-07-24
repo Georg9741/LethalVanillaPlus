@@ -1,3 +1,7 @@
+## 2.2.1
+- README Updated
+- [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) Updated to 2.2.1
+
 ## 2.2.0
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) Updated to 2.2.0
 - [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) Updated to 2.1.1

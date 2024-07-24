@@ -1,7 +1,7 @@
 {
     "name": "LethalVanillaPlusCORE",
     "description": "LethalVanillaPlus CORE Package",
-    "version_number": "2.2.0",
+    "version_number": "2.2.1",
     "website_url": "https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
@@ -30,7 +30,7 @@
         "TestAccount666-ShipWindows-1.5.2",
         "sfDesat-Celestial_Tint-1.5.2",
         "SleeplessKyru-SnapRotateFurniture-1.0.1",
-        "Hexnet111-SuitSaver-1.2.0",
+        "Hexnet111-SuitSaver-1.2.1",
         "akechii-DiscountAlert-2.3.0",
         "Lordfirespeed-OdinSerializer-2022.11.9",
         "xilophor-StaticNetcodeLib-1.1.1",
