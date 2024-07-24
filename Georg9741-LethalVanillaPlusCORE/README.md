@@ -6,6 +6,13 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
   - [General]
     - Show Cause Of Death = false
     - Enable Extra Input = false
+- BlueAmulet.BetterClock.cfg
+  - [Clock]
+    - DarkZero = false
+    - RaiseClock = false
+    - 24Hours = true
+    - VisibilityShip = 0.2
+    - VisibilityInside = 0.2
 - butterystancakes.lethalcompany.accuratestaminadisplay.cfg
   - [Misc]
     - ExhaustionIndicator = ChangeColor
@@ -23,6 +30,10 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
   - [General Settings]
     - Default to First Person = false
     - First Person Keybind = V
+- Hikari.cfg
+  - [Hikari.Crosshair]
+    - Text = - + -
+    - Alpha = 0.1
 - TestAccount666.GoodItemScan.cfg
   - [Special Cases]
     - Show opened blast door scan node = false

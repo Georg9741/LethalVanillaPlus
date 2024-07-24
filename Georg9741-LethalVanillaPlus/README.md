@@ -44,7 +44,8 @@
   - **Voice Activity Speaking Indicators on Other Players**
 - AlwaysHearActiveWalkies
   - **Hearable Active Walkies Even When You’re Not Holding Them**
-- 24HourClock
+- LCBetterClock
+  - **Visible Clock in the Facility and on the Ship**
   - **24 Hour Clock, Instead of AM/PM**
 ### Scan
 - GoodItemScan
@@ -63,8 +64,10 @@
 ### HUD
 - AccurateStaminaDisplay
   - **Accurate Presentation of Your Current Stamina Percentage**
-- HealthMetrics
-  - **Health Counter**
+- Hikari
+  - **Crosshair**
+  - **Health Metric**
+  - **Weight in Kilograms**
 - VoiceHUD
   - **Voice Activity Speaking Indicator**
 ### Ship

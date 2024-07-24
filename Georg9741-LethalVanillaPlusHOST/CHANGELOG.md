@@ -1,7 +1,7 @@
 ## 2.1.0
-- Mods added/removed
+- Mods
   - `KickWithoutBan` removed
-- Mods Updated (1)
+  - Updated (1)
 
 ## 2.0.0
 - Initial Rework
