@@ -12,3 +12,6 @@ This package includes the hosting mods contained within [LethalVanillaPlus](http
   - [ShipSetting]
     - StartGameOnlyHost = false
     - StartGamePlayerCount = 3
+- HostFixes.cfg
+  - [General]
+    - Minimum Votes To Leave Early = 2

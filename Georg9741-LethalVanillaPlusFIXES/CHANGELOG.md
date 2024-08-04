@@ -1,3 +1,9 @@
+## 2.2.0
+- Mods
+  - `LogNeuter` added
+  - `CruiserImproved` added
+  - Updated (4)
+
 ## 2.1.1
 - Mods
   - `BarberFixes` added

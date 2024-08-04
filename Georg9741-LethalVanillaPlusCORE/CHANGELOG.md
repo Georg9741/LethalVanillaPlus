@@ -1,3 +1,11 @@
+## 2.3.0
+- Mods
+  - `MainMenuVersion` added
+  - `LCUltrawide` added
+  - Updated (4)
+- Configs
+  - `LCBetterClock` updated
+
 ## 2.2.1
 - Mods
   - Updated (1)
@@ -17,8 +25,8 @@
   - `EladsHUD` replaced by `AccurateStaminaDisplay` and `HealthMetrics`
   - Updated (1)
 - Configs
-  - `DiscountAlert` `Delay` changed from `4s` to `6s`
-  - `GoodItemScan` `Opened Blast Door Scan Node` Set to `False`
+  - `DiscountAlert` updated
+  - `GoodItemScan` updated
 
 ## 2.0.0
 - Initial Rework

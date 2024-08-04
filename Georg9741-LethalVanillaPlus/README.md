@@ -17,8 +17,8 @@
 - **Improved Ship Experience**
 - **Improved Terminal**
 - **Improved Spectator**
-- **Better Hosting** (3 Mods)
-- **Numerous Bug Fixes/Improvements** (25 Mods)
+- **Better Hosting** (4 Mods)
+- **Numerous Bug Fixes/Improvements** (27 Mods)
 
 # Mods: 60+
 ### Game
@@ -38,6 +38,10 @@
   - **Button in Lobby List to Sort by Number of Players**
 - HDLethalCompany
   - **Additional Graphics Settings**
+- LCUltrawide
+  - **Support for Different Monitor Resolutions**
+- MainMenuVersion
+  - **Game Version Text in Bottom Center of Main Menu**
 ### Gameplay
 - NameplateTweaks
   - **Better Nameplate Visibility**
@@ -120,9 +124,13 @@
 - FurnitureLock
   - **Configurable Initial Furniture Position**
   - **Furniture Moving Prevention/Lock**
+- HostFixes
+  - **Anti-Cheat**
+  - **Bug Fixes/Improvements**
 - AntiCheat
   - **Cheat Detection**
 ### Bug Fixes/Improvements/Performance
+- HookGenPatcher _(Dependency)_
 - LetMeLookDown
   - **Looking Down Angle Increase**
 - TestAccountCore _(Dependency)_
@@ -130,10 +138,9 @@
   - **Automatic Inventory Fix (Manual: `,`)**  
     _(Activating the fix manually will cause you to enter the glitched state!)_
   - **Item Grab Fix (Bypass: `Left Shift`)**
-- HookGenPatcher _(Dependency)_
 - No Console Spam
-- TerminalConflictFix
 - Loadstone
+- LogNeuter
 - BarberFixes
 - ButteryFixes
 - EnemySoundFixes
@@ -144,6 +151,7 @@
 - BepInEx Faster Load AssetBundles Patcher
 - HarmonyXTranspilerFix _(Dependency)_
 - LethalPerformance
+- CruiserImproved
 - CullFactory
 - LCMaxSoundsFix
 - SignalTranslatorAligner
@@ -151,4 +159,5 @@
 - Matty Fixes
 - ApparatusFix
 - BetterTerminal
+- TerminalConflictFix
 - PathfindingLagFix

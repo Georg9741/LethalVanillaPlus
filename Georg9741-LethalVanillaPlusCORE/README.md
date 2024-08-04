@@ -8,7 +8,7 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - Enable Extra Input = false
 - BlueAmulet.BetterClock.cfg
   - [Clock]
-    - DarkZero = false
+    - LeadingZero = false
     - RaiseClock = false
     - 24Hours = true
     - VisibilityShip = 0.2

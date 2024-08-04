@@ -1,2 +1,2 @@
 # LethalVanillaPlus
-Vanilla Modpack, Many QoL Features, Better Hosting, Numerous Bug Fixes/Improvements
+[Thunderstore](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/)
