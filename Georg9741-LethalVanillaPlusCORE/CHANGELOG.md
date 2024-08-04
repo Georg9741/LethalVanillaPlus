@@ -1,3 +1,7 @@
+## 2.3.1
+- Mods
+  - Updated (1)
+
 ## 2.3.0
 - Mods
   - `MainMenuVersion` added

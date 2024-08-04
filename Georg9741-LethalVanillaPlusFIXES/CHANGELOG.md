@@ -1,8 +1,13 @@
+## 2.2.1
+- Mods
+  - Updated (1)
+  - `LethalCompany_InputUtils` added (Dependency)
+
 ## 2.2.0
 - Mods
   - `LogNeuter` added
   - `CruiserImproved` added
-  - Updated (4)
+  - Updated (5)
 
 ## 2.1.1
 - Mods
