@@ -5,7 +5,7 @@
 **Compatibility: v56+**
 
 ### Thunderstore Import Code
-**0190e6eb-765e-5543-2289-3cf15c076bf9** _v2.2.1_
+**01916692-c86c-8ccf-8ecf-e40ea7164712** _v2.4_
 
 ## Summary
 - **Detailed Discord Rich Presence**
@@ -20,12 +20,16 @@
 - **Better Hosting** (4 Mods)
 - **Numerous Bug Fixes/Improvements** (27 Mods)
 
-# Mods: 60+
+# Mods: 70+
 ### Game
 - LethalRichPresence
   - **Detailed Discord Activity/Rich Presence**
-- LC FastStartup
+- IntroTweaks
   - **Game Intro Skip**
+  - **Main Menu Improvements**
+  - **Custom Version Text**
+- Emblem
+  - **Custom Game Logo**
 - LethalConfig
   - **In-Game Config Menu**
 - LethalCompany InputUtils
@@ -40,8 +44,6 @@
   - **Additional Graphics Settings**
 - LCUltrawide
   - **Support for Different Monitor Resolutions**
-- MainMenuVersion
-  - **Game Version Text in Bottom Center of Main Menu**
 ### Gameplay
 - NameplateTweaks
   - **Better Nameplate Visibility**
@@ -75,8 +77,6 @@
 - VoiceHUD
   - **Voice Activity Speaking Indicator**
 ### Ship
-- ShipLoot
-  - **Total Scrap Value in the Ship Displayed When Scanning**
 - OpenBodyCams
   - **First Person View of Players, on Second Large Monitor**
 - OpenMonitors

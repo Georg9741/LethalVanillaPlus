@@ -2,45 +2,54 @@
 This package includes the core mods contained within [LethalVanillaPlus](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/)
 
 ## Config changes
-- BetterSpectator.cfg
+- BetterSpectator
   - [General]
     - Show Cause Of Death = false
     - Enable Extra Input = false
-- BlueAmulet.BetterClock.cfg
+- BlueAmulet.BetterClock
   - [Clock]
     - LeadingZero = false
     - RaiseClock = false
     - 24Hours = true
-    - VisibilityShip = 0.2
-    - VisibilityInside = 0.2
-- butterystancakes.lethalcompany.accuratestaminadisplay.cfg
+    - VisibilityShip = 0.25
+- butterystancakes.lethalcompany.accuratestaminadisplay
   - [Misc]
     - ExhaustionIndicator = ChangeColor
-- CelestialTint.cfg
+- CelestialTint
   - [1. Planets]
     - PlanetTagMappings = Embrion@Argon
-- dev.flero.lethal.FastStartup.cfg
-  - [Skips]
-    - MenuAnim = false
-- discount.alert.cfg
+- Darkbrewery.Emblem
+  - [1. Main Logo]
+    - Enable = true
+    - Path = Emblem/HeaderRed.png
+    - Offset = 22
+    - Scale = 75
+  - [2. Main Background]
+    - Enable = false
+- discount.alert
   - [Alert]
     - DelayAfterLeverIsPulled = 6
     - AlertEnabledWhenNoDiscounts = false
-- Fusition.BetterSpectate.cfg
+- Fusition.BetterSpectate
   - [General Settings]
     - Default to First Person = false
     - First Person Keybind = V
-- Hikari.cfg
+- Hikari
   - [Hikari.Crosshair]
     - Text = - + -
     - Alpha = 0.1
-- TestAccount666.GoodItemScan.cfg
+- IntroTweaks
+  - [1 >> Intro << 1]
+    - sAutoSelectMode = ONLINE
+  - [2 >> Main Menu << 2]
+    - bFixMenuPanels = true
+  - [3 >> Custom Version Text << 3]
+    - sVersionText = v$VERSION [MODDED]
+    - fVersionTextSize = 16
+- TestAccount666.GoodItemScan
   - [Special Cases]
     - Show opened blast door scan node = false
-- TestAccount666.ScannableTools.cfg
-  - [Items]
-    - Blacklisted Items = polaroid, test, clipboard
-- TestAccount666.ShipWindows.cfg
+- TestAccount666.ShipWindows
   - [General]
     - VanillaMode = true
     - WindowMaterial = REFRACTION
@@ -48,9 +57,12 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - EnableWindow3 = false
   - [Misc]
     - Enable Wesley shutter voice lines = false
-- Zaggy1024.OpenBodyCams.cfg
+- xxxstoner420bongmasterxxx.open_monitors
+  - [Monitors]
+    - HideLifeSupport = true
+- Zaggy1024.OpenBodyCams
   - [Camera]
-    - HorizontalResolution = 60
-    - Framerate = 12
+    - HorizontalResolution = 48
+    - Framerate = 10
   - [ShipUpgrade]
     - Enabled = false

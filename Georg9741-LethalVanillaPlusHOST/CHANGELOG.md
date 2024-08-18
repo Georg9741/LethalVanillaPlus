@@ -1,14 +1,20 @@
-## 2.2.0
-- Mods
-  - `HostFixes` added
-  - Updated (2)
-- Configs
-  - `HostFixes` added
+## 2.2
+### 2.2.0
+- Mods added
+  - **HostFixes**
+- Configs added
+  - _**HostFixes**_
+- Mods updated (2)
+### 2.2.1
+- Configs changed
+  - _**AntiCheat**_
+    - Config updated
+- Mods updated (2)
+  - **AntiCheat** _0.7.2 > 0.7.3_
+  - **LobbyControl** _2.4.3 > 2.4.4_
 
-## 2.1.0
-- Mods
-  - `KickWithoutBan` removed
-  - Updated (1)
-
-## 2.0.0
-- Initial Rework
+## 2.1
+### 2.1.0
+- Mods removed
+  - **KickWithoutBan**
+- Mods updated (1)

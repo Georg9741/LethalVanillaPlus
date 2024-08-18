@@ -2,7 +2,7 @@
 This package includes the hosting mods contained within [LethalVanillaPlus](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/)
 
 ## Config changes
-- AntiCheat.cfg
+- AntiCheat
   - [DetectedMessageType]
     - Type = HostChat
   - [MsgSettings]
@@ -12,6 +12,6 @@ This package includes the hosting mods contained within [LethalVanillaPlus](http
   - [ShipSetting]
     - StartGameOnlyHost = false
     - StartGamePlayerCount = 3
-- HostFixes.cfg
+- HostFixes
   - [General]
     - Minimum Votes To Leave Early = 2
