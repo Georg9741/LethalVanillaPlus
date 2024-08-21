@@ -1,16 +1,19 @@
 # LethalVanillaPlus
+**Vanilla Friendly Client-Side Modpack to Enhance Your Lethal Company Experience**
 
-**Vanilla Compatible Modpack to Enhance Your Lethal Company Experience**
+![Thunderstore Version](https://img.shields.io/thunderstore/v/Georg9741/LethalVanillaPlus?style=for-the-badge&label=Version&color=darkcyan)
+![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Georg9741/LethalVanillaPlus?style=for-the-badge&color=darkviolet)
 
-**Compatibility: v56+**
+![LC Compatibility](https://img.shields.io/badge/v56%2B-orange?style=for-the-badge&logo=steam&label=Compatibility)
 
-#### You want to use my mod collection in your own modpack?
+### You want to use my mod collection in your own modpack?
 **Just add the desired packages (CORE, FIXES and HOST) as dependencies in your modpack and  
 include your own config files for more customization (Should overwrite existing configs)**  
 _(I recommend to not include mods that are already in the dependencies of my packages)_
 
 ### Thunderstore Import Code
-**01916692-c86c-8ccf-8ecf-e40ea7164712** _v2.4_
+`019175d9-904f-cd96-e80f-7b0e76f8325d` _v2.4.2_
+
 
 ## Summary
 - **Detailed Discord Rich Presence**
@@ -25,8 +28,23 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - **Better Hosting** (4 Mods)
 - **Numerous Bug Fixes/Improvements** (27 Mods)
 
-# Mods: 70+
-### Game
+
+## Keybinds
+- Flashlight Toggle: `F`
+- Walkie Push-To-Talk: `R`
+- Mute Toggle: `M`
+- Furniture Snap Rotate: `LMB`
+- While Spectating
+  - Swap between Players/Enemies: `E`
+  - Toggle Flashlight: `RMB`
+  - Zoom In/Out: `Scroll Wheel`
+  - Switch First/Third Person: `V`
+- Normal Grab: `Left Shift` _(Item Grab Fix Bypass)_
+- Manuel Inventory Fix: `,` _(Activating the fix manually will cause you to enter the glitched state!)_
+
+
+## Mods: 70+
+#### - Game
 - LethalRichPresence
   - **Detailed Discord Activity/Rich Presence**
 - IntroTweaks
@@ -49,30 +67,18 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Additional Graphics Settings**
 - LCUltrawide
   - **Support for Different Monitor Resolutions**
-### Gameplay
+#### - Gameplay
 - NameplateTweaks
   - **Better Nameplate Visibility**
-  - **Voice Activity Speaking Indicators on Other Players**
+  - **Voice Activity Speaking Indicators Over Players Heads**
 - AlwaysHearActiveWalkies
-  - **Hearable Active Walkies Even When You’re Not Holding Them**
+  - **Hearable Active Walkies Even When You Are Not Holding Them**
 - LCBetterClock
-  - **Visible Clock in the Facility and on the Ship**
-  - **24 Hour Clock, Instead of AM/PM**
-### Scan
-- GoodItemScan
-  - **Better Item Scan**
-- ScannableTools
-  - **Scannable Tools**
-- Light Switch Scan Node
-  - **Scannable Light Switch**
-### Keybinds
-- FlashlightToggle
-  - **Flashlight Toggle (Default: `F`)**
-- WalkieUse
-  - **Walkie Push-To-Talk (Default: `R`)**
-- ToggleMute
-  - **Mute Toggle (Default: `M`)**
-### HUD
+  - **Small/Compact Clock**
+  - **24 Hour Clock**
+- SuitSaver
+  - **Your Last Used Suit Is Saved**
+#### - HUD
 - AccurateStaminaDisplay
   - **Accurate Presentation of Your Current Stamina Percentage**
 - Hikari
@@ -81,20 +87,21 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Weight in Kilograms**
 - VoiceHUD
   - **Voice Activity Speaking Indicator**
-### Ship
-- OpenBodyCams
-  - **First Person View of Players, on Second Large Monitor**
-- OpenMonitors
-  - **New Monitor Information: Loot on Ship, Clock, Credits, Total Days, Colored Weather Condition**
-- ShipWindows
-  - **Glass Windows in the Ship**
-- Celestial Tint
-  - **New Visuals When in Orbit**
-- SnapRotateFurniture
-  - **45-Degree Furniture Rotation (Default: `LMB`)**
-- SuitSaver
-  - **Your Last Used Suit Is Saved**
-### Graphical Elements
+#### - Keybinds
+- FlashlightToggle
+  - **Flashlight Toggle**
+- WalkieUse
+  - **Walkie Push-To-Talk**
+- ToggleMute
+  - **Mute Toggle**
+#### - Scan
+- GoodItemScan
+  - **Better Item Scan**
+- ScannableTools
+  - **Scannable Tools**
+- Light Switch Scan Node
+  - **Scannable Light Switch**
+#### - Graphical Elements
 - DiscountAlert
   - **Store Discount Notifier**
 - OdinSerializer _(Dependency)_
@@ -102,28 +109,39 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - Coroner
   - **More Detailed Performance Report (Cause of Death)**
 - BetterPaycheck
-  - **Paycheck UI Rework (More Readable)**
-### Terminal
+  - **Paycheck UI Rework (Readability Improved)**
+#### - Ship
+- OpenBodyCams
+  - **First Person View of Players, on Second Large Monitor**
+- OpenMonitors
+  - **Monitor Information: Loot on Ship, Clock, Credits, Total Days, Colored Weather Condition**
+- ShipWindows
+  - **Glass Windows in the Ship**
+- Celestial Tint
+  - **New Visuals When in Orbit**
+- SnapRotateFurniture
+  - **45-Degree Furniture Rotation**
+#### - Terminal
 - TerminalApi _(Dependency)_
 - Terminal History
   - **Terminal Command History**
 - TimeCommand
   - **Terminal Time Command**
-### Spectator
+#### - Spectator
 - BetterSpectate
-  - **First Person View in Spectator (Default: `V`)**
-  - **Third Person Zoom in Spectator (`Mouse Wheel`)**
+  - **First Person View in Spectator**
+  - **Third Person Zoom in Spectator**
 - BetterSpectator
   - **Clock on Spectator Screen**
   - **Usable Chat on Spectator Screen**
 - SpectateEnemies
-  - **View Enemies in Spectator (Default: `E`)**
-  - **Use Flashlight in Spectator (Default: `RMB`)**
+  - **View Enemies in Spectator**
+  - **Use Flashlight in Spectator**
 - SpectateDeathCause
   - **Visible Death Cause on Spectator Screen**
-### Hosting
+#### - Hosting
 - LobbyControl
-  - **Late Joining, Changeable Lobby Name and Visibility**
+  - **Late Joining, Configurable Lobby Name and Visibility**
   - **Autosave Toggle, Force Save, Hotload**
   - **Bug Fixes/Improvements**
 - FurnitureLock
@@ -134,15 +152,11 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Bug Fixes/Improvements**
 - AntiCheat
   - **Cheat Detection**
-### Bug Fixes/Improvements/Performance
-- HookGenPatcher _(Dependency)_
+#### - Bug Fixes/Improvements/Performance
 - LetMeLookDown
   - **Looking Down Angle Increase**
-- TestAccountCore _(Dependency)_
-- TestAccountFixes
-  - **Automatic Inventory Fix (Manual: `,`)**  
-    _(Activating the fix manually will cause you to enter the glitched state!)_
-  - **Item Grab Fix (Bypass: `Left Shift`)**
+- HookGenPatcher _(Dependency)_
+- HarmonyXTranspilerFix _(Dependency)_
 - No Console Spam
 - Loadstone
 - LogNeuter
@@ -154,15 +168,16 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - WeedKillerFixes
 - LethalFixes
 - BepInEx Faster Load AssetBundles Patcher
-- HarmonyXTranspilerFix _(Dependency)_
 - LethalPerformance
 - CruiserImproved
 - CullFactory
 - LCMaxSoundsFix
 - SignalTranslatorAligner
 - AsyncLoggers
-- Matty Fixes
+- Matty Fixes Experimental
 - ApparatusFix
 - BetterTerminal
 - TerminalConflictFix
+- TestAccountCore _(Dependency)_
+- TestAccountFixes
 - PathfindingLagFix

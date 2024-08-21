@@ -35,6 +35,10 @@
   - **LethalPerformance** _0.3.3 > 0.3.4_
   - **EnemySoundFixes** _1.5.5 > 1.5.7_
   - **ButteryFixes** _1.7.0 > 1.7.2_
+### 2.2.4
+- Mods updated (2)
+  - **TestAccountCore** _1.5.0 > 1.6.0_
+  - **EnemySoundFixes** _1.5.7 > 1.5.8_
 
 ## 2.1
 ### 2.1.1

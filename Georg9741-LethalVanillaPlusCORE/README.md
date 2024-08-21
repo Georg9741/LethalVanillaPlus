@@ -11,7 +11,8 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - LeadingZero = false
     - RaiseClock = false
     - 24Hours = true
-    - VisibilityShip = 0.25
+    - VisibilityShip = 0
+    - VisibilityInside = 0
 - butterystancakes.lethalcompany.accuratestaminadisplay
   - [Misc]
     - ExhaustionIndicator = ChangeColor
@@ -44,7 +45,6 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
   - [2 >> Main Menu << 2]
     - bFixMenuPanels = true
   - [3 >> Custom Version Text << 3]
-    - sVersionText = v$VERSION [MODDED]
     - fVersionTextSize = 16
 - TestAccount666.GoodItemScan
   - [Special Cases]

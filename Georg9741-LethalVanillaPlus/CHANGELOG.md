@@ -1,3 +1,9 @@
+## 2.4.2
+- [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.4.1 > 2.4.2_
+- [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.2.3 > 2.2.4_
+- _Version Text in Main Menu_
+- _README Formatting_
+
 ## 2.4.1
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.4.0 > 2.4.1_
 - [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.2.2 > 2.2.3_
