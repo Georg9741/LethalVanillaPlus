@@ -24,6 +24,17 @@
   - **LethalPerformance** _0.2.1 > 0.3.3_
   - **PathfindingLagFix** _1.2.1 > 1.3.1_
   - **TestAccountCore** _1.3.0 > 1.5.0_
+### 2.2.3
+- Mods added
+  - **Matty Fixes Experimental** _1.1.16_
+- Mods removed
+  - **Matty Fixes** (deprecated for an indefinite period)
+- Mods updated (5)
+  - **WeedKillerFixes** _1.0.0 > 1.1.0_
+  - **No_Console_Spam** _1.3.0 > 1.4.0_
+  - **LethalPerformance** _0.3.3 > 0.3.4_
+  - **EnemySoundFixes** _1.5.5 > 1.5.7_
+  - **ButteryFixes** _1.7.0 > 1.7.2_
 
 ## 2.1
 ### 2.1.1

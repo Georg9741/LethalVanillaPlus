@@ -1,7 +1,7 @@
 {
     "name": "LethalVanillaPlusCORE",
     "description": "LethalVanillaPlus CORE Package",
-    "version_number": "2.4.0",
+    "version_number": "2.4.1",
     "website_url": "https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
@@ -17,7 +17,7 @@
         "taffyko-NameplateTweaks-1.0.7",
         "Suskitech-AlwaysHearActiveWalkies-1.4.5",
         "BlueAmulet-LCBetterClock-1.0.3",
-        "TestAccount666-GoodItemScan-1.8.1",
+        "TestAccount666-GoodItemScan-1.8.2",
         "TestAccount666-ScannableTools-1.1.2",
         "Karster-Light_Switch_Scan_Node-1.0.1",
         "Renegades-FlashlightToggle-1.5.0",

@@ -31,6 +31,9 @@
   - **OpenBodyCams** _2.2.1 > 2.2.4_
   - **ShipWindows** _1.7.0 > 1.8.0_
 - _main menu logos added_
+### 2.4.1
+- Mods updated (1)
+  - **GoodItemScan** _1.8.1 > 1.8.2_
 
 ## 2.3
 ### 2.3.0

@@ -12,6 +12,9 @@
 - Mods updated (2)
   - **AntiCheat** _0.7.2 > 0.7.3_
   - **LobbyControl** _2.4.3 > 2.4.4_
+### 2.2.2
+- Mods updated (1)
+  - **FurnitureLock** _1.3.0 > 1.3.1_
 
 ## 2.1
 ### 2.1.0

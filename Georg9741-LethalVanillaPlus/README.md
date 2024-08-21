@@ -4,6 +4,11 @@
 
 **Compatibility: v56+**
 
+#### You want to use my mod collection in your own modpack?
+**Just add the desired packages (CORE, FIXES and HOST) as dependencies in your modpack and  
+include your own config files for more customization (Should overwrite existing configs)**  
+_(I recommend to not include mods that are already in the dependencies of my packages)_
+
 ### Thunderstore Import Code
 **01916692-c86c-8ccf-8ecf-e40ea7164712** _v2.4_
 
