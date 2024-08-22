@@ -40,6 +40,13 @@
     - _VisibilityInside_ **0.25 > 0**
 - Mods updated (1)
   - **ShipWindows** _1.8.0 > 1.9.0_
+### 2.4.3
+- Mods added
+  - **ShipLoot** _1.1.0_
+- Mods removed
+  - **SpectateEnemies** _(incompatibility with first person view)_
+- Mods updated (1)
+  - **ShipWindows** _1.9.0 > 1.10.2_
 
 ## 2.3
 ### 2.3.0

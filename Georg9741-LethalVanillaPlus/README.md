@@ -87,6 +87,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Weight in Kilograms**
 - VoiceHUD
   - **Voice Activity Speaking Indicator**
+- ShipLoot
+  - **Total Scrap Value Displayed When Scanning on Ship**
 #### - Keybinds
 - FlashlightToggle
   - **Flashlight Toggle**
@@ -134,9 +136,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - BetterSpectator
   - **Clock on Spectator Screen**
   - **Usable Chat on Spectator Screen**
-- SpectateEnemies
-  - **View Enemies in Spectator**
-  - **Use Flashlight in Spectator**
 - SpectateDeathCause
   - **Visible Death Cause on Spectator Screen**
 #### - Hosting

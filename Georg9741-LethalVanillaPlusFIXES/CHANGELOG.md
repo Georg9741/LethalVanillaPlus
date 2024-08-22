@@ -39,6 +39,11 @@
 - Mods updated (2)
   - **TestAccountCore** _1.5.0 > 1.6.0_
   - **EnemySoundFixes** _1.5.7 > 1.5.8_
+### 2.2.5
+- Mods updated (3)
+  - **PathfindingLagFix** _1.3.1 > 1.4.0_
+  - **BarberFixes** _1.0.0 > 1.1.0_
+  - **CullFactory** _1.2.3 > 1.3.0_
 
 ## 2.1
 ### 2.1.1
