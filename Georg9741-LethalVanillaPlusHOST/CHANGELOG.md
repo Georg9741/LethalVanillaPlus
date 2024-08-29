@@ -1,3 +1,12 @@
+## 2.3
+### 2.3.0
+- Configs added
+  - _**mattymatty.FurnitureLock**_
+    - _Terminal moved_
+- Mods updated (1)
+  - **AntiCheat** _0.7.3 > 0.7.4_
+- _config version documentation in README_
+
 ## 2.2
 ### 2.2.0
 - Mods added

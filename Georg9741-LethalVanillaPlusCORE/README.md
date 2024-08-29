@@ -2,24 +2,31 @@
 This package includes the core mods contained within [LethalVanillaPlus](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/)
 
 ## Config changes
-- BetterSpectator
+- BetterSpectator _v1.2.0_
   - [General]
     - Show Cause Of Death = false
     - Enable Extra Input = false
-- BlueAmulet.BetterClock
+- BlueAmulet.BetterClock _v1.0.3_
   - [Clock]
     - LeadingZero = false
     - RaiseClock = false
     - 24Hours = true
     - VisibilityShip = 0
     - VisibilityInside = 0
-- butterystancakes.lethalcompany.accuratestaminadisplay
+- butterystancakes.lethalcompany.accuratestaminadisplay _v2.1.3_
   - [Misc]
     - ExhaustionIndicator = ChangeColor
-- CelestialTint
+- CelestialTint _v1.5.2_
   - [1. Planets]
     - PlanetTagMappings = Embrion@Argon
-- Darkbrewery.Emblem
+- com.ctnoriginals.crosshair _v1.1.2_
+  - [!General]
+    - CrossHairText = - + -
+    - CrossHairSize = 25
+    - CrossHairShadow = false
+  - [Appearance]
+    - CrossHairOpacity = 10
+- Darkbrewery.Emblem _v1.5.3_
   - [1. Main Logo]
     - Enable = true
     - Path = Emblem/HeaderRed.png
@@ -27,29 +34,66 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - Scale = 75
   - [2. Main Background]
     - Enable = false
-- discount.alert
+- discount.alert _v2.3.0_
   - [Alert]
     - DelayAfterLeverIsPulled = 6
     - AlertEnabledWhenNoDiscounts = false
-- Fusition.BetterSpectate
+- Fusition.BetterSpectate _v1.0.0_
   - [General Settings]
     - Default to First Person = false
     - First Person Keybind = V
-- Hikari
-  - [Hikari.Crosshair]
-    - Text = - + -
-    - Alpha = 0.1
-- IntroTweaks
+- IntroTweaks _v1.5.0_
   - [1 >> Intro << 1]
     - sAutoSelectMode = ONLINE
   - [2 >> Main Menu << 2]
     - bFixMenuPanels = true
   - [3 >> Custom Version Text << 3]
     - fVersionTextSize = 16
-- TestAccount666.GoodItemScan
+- ShaosilGaming.GeneralImprovements _v1.3.6_
+  - [Enemies]
+    - MaskedEntitiesSpinOnRadar = false
+  -  [ExtraMonitors]
+    - AddMoreBetterMonitors = false
+    - CenterAlignMonitorText = false
+    - MonitorBackgroundColor = 303830
+    - MonitorTextColor = 029494
+    - ShipExternalCamFPS = 10
+    - ShipInternalCamFPS = 10
+    - ShipMonitor1 = TotalDays
+    - ShipMonitor2 = Time
+    - ShipMonitor3 = ShipScrap
+    - ShipMonitor4 = Credits
+    - ShipMonitor7 = ExternalCam
+    - ShipMonitor8 = InternalCam
+    - ShipMonitor9 = DangerLevel
+    - ShipMonitor10 = DaysSinceDeath
+    - ShipMonitor11 = Weather
+    - ShipMonitor12 = Sales
+    - ShipMonitor13 = FancyWeather
+    - ShowBlueMonitorBackground = false
+    - SyncMonitorsFromOtherHost = true
+    - UseBetterMonitors = true
+  - [Fixes]
+    - FixInternalFireExits = false
+    - FixItemsFallingThrough = false
+    - FixItemsLoadingSameRotation = false
+  - [GameLaunch]
+    - SkipStartupScreen = false
+  - [Inventory]
+    - ScrollDelay = 0.3
+  - [Ship]
+    - MoveShipClipboardToWall = false
+    - SaveShipFurniturePlaces = None
+    - SnapObjectsByDegrees = 0
+  - [Terminal]
+    - TerminalHistoryItemCount = 0
+  - [UI]
+    - DisplayKgInsteadOfLb = true
+    - ShowLightningWarnings = false
+- TestAccount666.GoodItemScan _v1.9.0_
   - [Special Cases]
     - Show opened blast door scan node = false
-- TestAccount666.ShipWindows
+- TestAccount666.ShipWindows _v1.10.2_
   - [General]
     - VanillaMode = true
     - WindowMaterial = REFRACTION
@@ -57,10 +101,7 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - EnableWindow3 = false
   - [Misc]
     - Enable Wesley shutter voice lines = false
-- xxxstoner420bongmasterxxx.open_monitors
-  - [Monitors]
-    - HideLifeSupport = true
-- Zaggy1024.OpenBodyCams
+- Zaggy1024.OpenBodyCams _v2.2.4_
   - [Camera]
     - HorizontalResolution = 48
     - Framerate = 10

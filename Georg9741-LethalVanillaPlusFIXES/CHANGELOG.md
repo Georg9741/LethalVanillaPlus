@@ -1,3 +1,19 @@
+## 2.3
+### 2.3.0
+- Mods removed
+  - **LetMeLookDown** (replaced by **GI**)
+- Configs changed
+  - _**butterystancakes.lethalcompany.butteryfixes**_
+    - KeysAreScrap = true
+    - FancyEntranceDoors = true
+- Mods updated (5)
+  - **CullFactory** _1.3.0 > 1.3.2_
+  - **TestAccountCore** _1.6.0 > 1.8.0_
+  - **MeleeFixes** _1.3.0 > 1.3.1_
+  - **ButteryFixes** _1.7.2 > 1.8.1_
+  - **LethalFixes** _1.1.9 > 1.2.0_
+- _config version documentation in README_
+
 ## 2.2
 ### 2.2.0
 - Mods added
@@ -46,12 +62,12 @@
   - **CullFactory** _1.2.3 > 1.3.0_
 
 ## 2.1
-### 2.1.1
-- Mods added
-  - **BarberFixes**
-- Mods updated (2)
 ### 2.1.0
 - Mods added
   - **SignalTranslatorAligner**
   - **BepInEx Faster Load AssetBundles Patcher**
 - Mods updated (4)
+### 2.1.1
+- Mods added
+  - **BarberFixes**
+- Mods updated (2)

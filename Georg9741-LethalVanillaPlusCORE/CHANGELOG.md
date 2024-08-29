@@ -1,3 +1,25 @@
+## 2.5
+### 2.5.0
+- Mods added
+  - **GeneralImprovements** _1.3.6_
+  - **CrossHair** _1.1.2_
+  - LCUltrawide Community _1.1.2_
+- Mods removed
+  - **Hikari** _(replaced by **CrossHair** and **GeneralImprovements**)_
+  - **Light Switch Scan Node** _(replaced by **GeneralImprovements**)_
+  - **OpenMonitors** _(replaced by **GeneralImprovements**)_
+  - **Sort by Player Count** _(Deprecated)_
+  - **HDLethalCompany** _(Deprecated)_
+  - LCUltrawide _(Deprecated)_
+- Configs added
+  - _**com.ctnoriginals.crosshair**_
+  - _**ShaosilGaming.GeneralImprovements**_
+- Mods updated (3)
+  - **GoodItemScan** _1.8.2 > 1.9.0_
+  - **Coroner** _2.0.0 > 2.1.0_
+  - **LCUltrawide** _1.1.1 > 1.1.2_ (Forked by [LethalCompanyModding](https://thunderstore.io/c/lethal-company/p/LethalCompanyModding/))
+- _config version documentation in README_
+
 ## 2.4
 ### 2.4.0
 - Mods added

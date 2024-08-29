@@ -12,7 +12,7 @@ include your own config files for more customization (Should overwrite existing 
 _(I recommend to not include mods that are already in the dependencies of my packages)_
 
 ### Thunderstore Import Code
-`019175d9-904f-cd96-e80f-7b0e76f8325d` _v2.4.2_
+`01919bcd-e55d-2830-b2fb-a36d62094849` _v2.5.0_
 
 
 ## Summary
@@ -26,7 +26,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - **Improved Terminal**
 - **Improved Spectator**
 - **Better Hosting** (4 Mods)
-- **Numerous Bug Fixes/Improvements** (27 Mods)
+- **Numerous Bug Fixes/Improvements** (26 Mods)
 
 
 ## Keybinds
@@ -43,7 +43,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - Manuel Inventory Fix: `,` _(Activating the fix manually will cause you to enter the glitched state!)_
 
 
-## Mods: 70+
+## Mods: 67
 #### - Game
 - LethalRichPresence
   - **Detailed Discord Activity/Rich Presence**
@@ -61,12 +61,15 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Lobby Search**
   - **Lobby Joining via Code**
   - **Last Joined Lobby on the Top of the List**
-- Sort by Player Count
-  - **Button in Lobby List to Sort by Number of Players**
-- HDLethalCompany
-  - **Additional Graphics Settings**
-- LCUltrawide
+- LCUltrawide Community
   - **Support for Different Monitor Resolutions**
+- GeneralImprovements
+  - **Bug Fixes/Improvements**
+  - **Looking Down Angle Increase**
+  - **Scannable Light Switch**
+  - **More Monitor Information**
+  - **Health Metric**
+  - **Weight in Kilograms**
 #### - Gameplay
 - NameplateTweaks
   - **Better Nameplate Visibility**
@@ -81,10 +84,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 #### - HUD
 - AccurateStaminaDisplay
   - **Accurate Presentation of Your Current Stamina Percentage**
-- Hikari
+- CrossHair
   - **Crosshair**
-  - **Health Metric**
-  - **Weight in Kilograms**
 - VoiceHUD
   - **Voice Activity Speaking Indicator**
 - ShipLoot
@@ -101,8 +102,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Better Item Scan**
 - ScannableTools
   - **Scannable Tools**
-- Light Switch Scan Node
-  - **Scannable Light Switch**
 #### - Graphical Elements
 - DiscountAlert
   - **Store Discount Notifier**
@@ -115,8 +114,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 #### - Ship
 - OpenBodyCams
   - **First Person View of Players, on Second Large Monitor**
-- OpenMonitors
-  - **Monitor Information: Loot on Ship, Clock, Credits, Total Days, Colored Weather Condition**
 - ShipWindows
   - **Glass Windows in the Ship**
 - Celestial Tint
@@ -152,8 +149,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - AntiCheat
   - **Cheat Detection**
 #### - Bug Fixes/Improvements/Performance
-- LetMeLookDown
-  - **Looking Down Angle Increase**
 - HookGenPatcher _(Dependency)_
 - HarmonyXTranspilerFix _(Dependency)_
 - No Console Spam
