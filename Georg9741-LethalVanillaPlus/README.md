@@ -4,7 +4,7 @@
 ![Thunderstore Version](https://img.shields.io/thunderstore/v/Georg9741/LethalVanillaPlus?style=for-the-badge&label=Version&color=darkcyan)
 ![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Georg9741/LethalVanillaPlus?style=for-the-badge&color=darkviolet)
 
-![LC Compatibility](https://img.shields.io/badge/v60%2B-darkblue?style=for-the-badge&logo=steam&label=Compatibility)
+![LC Compatibility](https://img.shields.io/badge/v60%2B-orange?style=for-the-badge&logo=steam&label=Compatibility)
 
 ### You want to use my mod collection in your own modpack?
 **Just add the desired packages (CORE, FIXES and HOST) as dependencies in your modpack and  
@@ -35,8 +35,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - Mute Toggle: `M`
 - Furniture Snap Rotate: `LMB`
 - While Spectating
-  - Swap between Players/Enemies: `E`
-  - Toggle Flashlight: `RMB`
   - Zoom In/Out: `Scroll Wheel`
   - Switch First/Third Person: `V`
 - Normal Grab: `Left Shift` _(Item Grab Fix Bypass)_
