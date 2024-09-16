@@ -1,3 +1,8 @@
+## 2.6.0
+- [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.5.0 > 2.6.0_
+- [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.3.0 > 2.4.0_
+- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.3.0 > 2.3.1_
+
 ## 2.5.0
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.4.3 > 2.5.0_
 - [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.2.5 > 2.3.0_

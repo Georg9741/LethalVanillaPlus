@@ -6,6 +6,14 @@
 - Mods updated (1)
   - **AntiCheat** _0.7.3 > 0.7.4_
 - _config version documentation in README_
+### 2.3.1
+- Configs changed
+  - _**AntiCheat**_
+- Configs removed
+  - _**HostFixes**_
+- Mods updated (2)
+  - **AntiCheat** _0.7.4 > 0.7.5_
+  - **FurnitureLock** _1.3.1 > 1.3.2_
 
 ## 2.2
 ### 2.2.0

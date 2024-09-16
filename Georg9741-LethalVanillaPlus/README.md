@@ -4,7 +4,7 @@
 ![Thunderstore Version](https://img.shields.io/thunderstore/v/Georg9741/LethalVanillaPlus?style=for-the-badge&label=Version&color=darkcyan)
 ![Thunderstore Downloads](https://img.shields.io/thunderstore/dt/Georg9741/LethalVanillaPlus?style=for-the-badge&color=darkviolet)
 
-![LC Compatibility](https://img.shields.io/badge/v56%2B-orange?style=for-the-badge&logo=steam&label=Compatibility)
+![LC Compatibility](https://img.shields.io/badge/v60%2B-darkblue?style=for-the-badge&logo=steam&label=Compatibility)
 
 ### You want to use my mod collection in your own modpack?
 **Just add the desired packages (CORE, FIXES and HOST) as dependencies in your modpack and  
@@ -12,7 +12,7 @@ include your own config files for more customization (Should overwrite existing 
 _(I recommend to not include mods that are already in the dependencies of my packages)_
 
 ### Thunderstore Import Code
-`01919bcd-e55d-2830-b2fb-a36d62094849` _v2.5.0_
+`0191fcda-4623-9c1b-e96f-74231c16e1df` _v2.6.0_
 
 
 ## Summary
@@ -25,8 +25,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - **Improved Ship Experience**
 - **Improved Terminal**
 - **Improved Spectator**
-- **Better Hosting** (4 Mods)
-- **Numerous Bug Fixes/Improvements** (26 Mods)
+- **Better Hosting**
+- **Numerous Bug Fixes/Improvements** (over 25 Mods)
 
 
 ## Keybinds
@@ -43,7 +43,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - Manuel Inventory Fix: `,` _(Activating the fix manually will cause you to enter the glitched state!)_
 
 
-## Mods: 67
+## Mods: 68
 #### - Game
 - LethalRichPresence
   - **Detailed Discord Activity/Rich Presence**
@@ -61,6 +61,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Lobby Search**
   - **Lobby Joining via Code**
   - **Last Joined Lobby on the Top of the List**
+- LCBetterSaves
+  - **More Saves**
 - LCUltrawide Community
   - **Support for Different Monitor Resolutions**
 - GeneralImprovements
@@ -86,8 +88,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Accurate Presentation of Your Current Stamina Percentage**
 - CrossHair
   - **Crosshair**
-- VoiceHUD
-  - **Voice Activity Speaking Indicator**
 - ShipLoot
   - **Total Scrap Value Displayed When Scanning on Ship**
 #### - Keybinds
@@ -135,6 +135,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Usable Chat on Spectator Screen**
 - SpectateDeathCause
   - **Visible Death Cause on Spectator Screen**
+- WhoVoted
+  - **Vote Badge on Spectator Screen**
 #### - Hosting
 - LobbyControl
   - **Late Joining, Configurable Lobby Name and Visibility**
@@ -153,7 +155,6 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - HarmonyXTranspilerFix _(Dependency)_
 - No Console Spam
 - Loadstone
-- LogNeuter
 - BarberFixes
 - ButteryFixes
 - EnemySoundFixes
@@ -166,12 +167,13 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - CruiserImproved
 - CullFactory
 - LCMaxSoundsFix
-- SignalTranslatorAligner
+- ReverbTriggerFix
 - AsyncLoggers
 - Matty Fixes Experimental
 - ApparatusFix
 - BetterTerminal
 - TerminalConflictFix
+- AntiSlimeCamp
 - TestAccountCore _(Dependency)_
 - TestAccountFixes
 - PathfindingLagFix

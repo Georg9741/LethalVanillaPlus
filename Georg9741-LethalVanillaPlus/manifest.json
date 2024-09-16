@@ -1,11 +1,11 @@
 {
     "name": "LethalVanillaPlus",
     "description": "Vanilla Modpack, Many QoL Features, Better Hosting, Numerous Bug Fixes/Improvements",
-    "version_number": "2.5.0",
+    "version_number": "2.6.0",
     "website_url": "https://github.com/Georg9741/LethalVanillaPlus",
     "dependencies": [
-        "Georg9741-LethalVanillaPlusCORE-2.5.0",
-        "Georg9741-LethalVanillaPlusFIXES-2.3.0",
-        "Georg9741-LethalVanillaPlusHOST-2.3.0"
+        "Georg9741-LethalVanillaPlusCORE-2.6.0",
+        "Georg9741-LethalVanillaPlusFIXES-2.4.0",
+        "Georg9741-LethalVanillaPlusHOST-2.3.1"
     ]
 }

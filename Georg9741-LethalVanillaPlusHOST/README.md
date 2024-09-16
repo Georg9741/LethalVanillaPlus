@@ -2,7 +2,7 @@
 This package includes the hosting mods contained within [LethalVanillaPlus](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlus/)
 
 ## Config changes
-- AntiCheat _v0.7.4_
+- AntiCheat _v0.7.5_
   - [DetectedMessageType]
     - Type = HostChat
   - [MsgSettings]
@@ -12,10 +12,8 @@ This package includes the hosting mods contained within [LethalVanillaPlus](http
   - [ShipSetting]
     - StartGameOnlyHost = false
     - StartGamePlayerCount = 3
-- HostFixes _v1.0.18_
-  - [General]
-    - Minimum Votes To Leave Early = 2
-- mattymatty.FurnitureLock _v1.3.1_
+    - EndGamePlayerTime = 9:00
+- mattymatty.FurnitureLock _v1.3.2_
   - [Bunkbeds]
     - position = -0.1, 2, -12.7
     - rotation = 270, 0, 0

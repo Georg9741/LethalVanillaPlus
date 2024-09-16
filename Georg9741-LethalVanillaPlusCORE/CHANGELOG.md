@@ -1,3 +1,17 @@
+## 2.6
+### 2.6.0
+- Mods added
+  - **LCBetterSaves**
+  - **WhoVoted**
+- Mods removed
+  - **VoiceHUD** (already included in **LethalFixes**)
+- Configs added/changed/updated (7)
+- Mods updated (4)
+  - **GeneralImprovements** _1.3.6 > 1.4.4_
+  - **OpenBodyCams** _2.2.4 > 2.3.1_
+  - **Coroner** _2.1.0 > 2.2.0_
+  - **ScannableTools** _1.1.2 > 1.1.3_
+
 ## 2.5
 ### 2.5.0
 - Mods added

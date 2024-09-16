@@ -26,12 +26,15 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - CrossHairShadow = false
   - [Appearance]
     - CrossHairOpacity = 10
+- com.github.tinyhoot.ShipLoot _v1.1.0_
+  - [General]
+    - DisplayTime = 3
 - Darkbrewery.Emblem _v1.5.3_
   - [1. Main Logo]
     - Enable = true
     - Path = Emblem/HeaderRed.png
-    - Offset = 22
-    - Scale = 75
+    - Offset = 25
+    - Scale = 80
   - [2. Main Background]
     - Enable = false
 - discount.alert _v2.3.0_
@@ -49,9 +52,7 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - bFixMenuPanels = true
   - [3 >> Custom Version Text << 3]
     - fVersionTextSize = 16
-- ShaosilGaming.GeneralImprovements _v1.3.6_
-  - [Enemies]
-    - MaskedEntitiesSpinOnRadar = false
+- ShaosilGaming.GeneralImprovements _v1.4.4_
   -  [ExtraMonitors]
     - AddMoreBetterMonitors = false
     - CenterAlignMonitorText = false
@@ -63,9 +64,9 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - ShipMonitor2 = Time
     - ShipMonitor3 = ShipScrap
     - ShipMonitor4 = Credits
-    - ShipMonitor7 = ExternalCam
-    - ShipMonitor8 = InternalCam
-    - ShipMonitor9 = DangerLevel
+    - ShipMonitor7 = CompanyBuyRate
+    - ShipMonitor8 = ExternalCam
+    - ShipMonitor9 = InternalCam
     - ShipMonitor10 = DaysSinceDeath
     - ShipMonitor11 = Weather
     - ShipMonitor12 = Sales
@@ -78,9 +79,12 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - FixItemsFallingThrough = false
     - FixItemsLoadingSameRotation = false
   - [GameLaunch]
+    - AlwaysShowNews = true
     - SkipStartupScreen = false
   - [Inventory]
     - ScrollDelay = 0.3
+  - [Mechanics]
+    - SavePlayerSuits = false
   - [Ship]
     - MoveShipClipboardToWall = false
     - SaveShipFurniturePlaces = None
@@ -89,10 +93,17 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - TerminalHistoryItemCount = 0
   - [UI]
     - DisplayKgInsteadOfLb = true
+    - HideEmptySubtextOfScanNodes = false
     - ShowLightningWarnings = false
+- taffyko.NameplateTweaks _v1.0.7_
+  - [Nameplate]
+    - NameplateScale = 1.0
 - TestAccount666.GoodItemScan _v1.9.0_
+  - [General]
+    - Always Check For Line Of Sight = true
   - [Special Cases]
     - Show opened blast door scan node = false
+    - Total Add Wait Multiplier = 50
 - TestAccount666.ShipWindows _v1.10.2_
   - [General]
     - VanillaMode = true
@@ -100,8 +111,9 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - EnableWindowShutter = false
     - EnableWindow3 = false
   - [Misc]
+    - Change light switch tool tip = false
     - Enable Wesley shutter voice lines = false
-- Zaggy1024.OpenBodyCams _v2.2.4_
+- Zaggy1024.OpenBodyCams _v2.3.1_
   - [Camera]
     - HorizontalResolution = 48
     - Framerate = 10

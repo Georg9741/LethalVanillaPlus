@@ -1,3 +1,29 @@
+## 2.4
+### 2.4.0
+- Mods added
+  - **ReverbTriggerFix**
+  - **AntiSlimeCamp**
+- Mods removed
+  - **LogNeuter**
+  - **SignalTranlatorAligner** (already included in **GI**)
+- Configs changed
+  - _**butterystancakes.lethalcompany.butteryfixes**_
+- Configs added
+  - _**DiggC.CruiserImproved**_
+- Mods updated (12)
+  - **AsyncLoggers** _1.6.3 > 2.1.2_
+  - **ButteryFixes** _1.8.1 > 1.10.2_
+  - **CruiserImproved** _1.4.0 > 1.4.1_
+  - **CullFactory** _1.3.2 > 1.3.15_
+  - **EnemySoundFixes** _1.5.8 > 1.5.9_
+  - **HarmonyXTranspilerFix** _1.0.0 > 1.1.0_
+  - **JetpackFixes** _1.4.3 > 1.5.0_
+  - **LethalFixes** _1.2.0 > 1.2.2_
+  - **LethalPerformance** _0.3.4 > 0.4.0_
+  - **Matty_Fixes_Experimental** _1.1.16 > 1.1.24_
+  - **No_Console_Spam** _1.4.0 > 1.5.0_
+  - **TestAccountCore** _1.8.0 > 1.8.2_
+
 ## 2.3
 ### 2.3.0
 - Mods removed
