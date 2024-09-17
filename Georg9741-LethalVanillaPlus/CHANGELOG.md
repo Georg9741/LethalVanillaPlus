@@ -1,3 +1,6 @@
+## 2.6.2
+- Version Text fixed
+
 ## 2.6.1
 - README updated
 
