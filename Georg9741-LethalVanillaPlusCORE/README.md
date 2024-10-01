@@ -37,6 +37,9 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - Scale = 80
   - [2. Main Background]
     - Enable = false
+  - [4. Loading Image]
+    - Enable = true
+    - Path = Emblem/Loading.png
 - discount.alert _v2.3.0_
   - [Alert]
     - DelayAfterLeverIsPulled = 6
@@ -84,6 +87,7 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
   - [Inventory]
     - ScrollDelay = 0.3
   - [Mechanics]
+    - AllowPickupOfAllItemsPreStart = false
     - SavePlayerSuits = false
   - [Ship]
     - MoveShipClipboardToWall = false

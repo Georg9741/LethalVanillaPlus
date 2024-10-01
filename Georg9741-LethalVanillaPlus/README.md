@@ -12,12 +12,11 @@ include your own config files for more customization (Should overwrite existing 
 _(I recommend to not include mods that are already in the dependencies of my packages)_
 
 ### Thunderstore Import Code
-`019200fb-5556-973f-4477-1ca95a091982` _v2.6_
+`WILL BE ADDED` _v2.7.0_
 
 
 ## Summary
 - **Detailed Discord Rich Presence**
-- **Improved Lobby List**
 - **Minor Gameplay Improvements**
 - **Improved Item Scan**
 - **Additional Keybinds**
@@ -25,8 +24,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - **Improved Ship Experience**
 - **Improved Terminal**
 - **Improved Spectator**
-- **Better Hosting**
-- **Numerous Bug Fixes/Improvements** (over 25 Mods)
+- **Improved Hosting Experience**
+- **Numerous Bug Fixes/Improvements** (25+ Mods)
 
 
 ## Keybinds
@@ -41,8 +40,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - Manuel Inventory Fix: `,` _(Activating the fix manually will cause you to enter the glitched state!)_
 
 
-## Mods: 68
-#### - Game
+## Mods: 68 (72)
+#### - Game (9)
 - LethalRichPresence
   - **Detailed Discord Activity/Rich Presence**
 - IntroTweaks
@@ -55,22 +54,21 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **In-Game Config Menu**
 - LethalCompany InputUtils
   - **In-Game Keybinds Menu**
-- Better Lobbies
-  - **Lobby Search**
-  - **Lobby Joining via Code**
-  - **Last Joined Lobby on the Top of the List**
+- LobbyImprovements
+  - **Invite Only Lobbies**
+  - **Lobby Codes**
+  - **Ban Confirmation Prompt (Kick/Ban, Reason)**
 - LCBetterSaves
   - **More Saves**
 - LCUltrawide Community
   - **Support for Different Monitor Resolutions**
 - GeneralImprovements
   - **Bug Fixes/Improvements**
-  - **Looking Down Angle Increase**
   - **Scannable Light Switch**
   - **More Monitor Information**
   - **Health Metric**
   - **Weight in Kilograms**
-#### - Gameplay
+#### - Gameplay (4)
 - NameplateTweaks
   - **Better Nameplate Visibility**
   - **Voice Activity Speaking Indicators Over Players Heads**
@@ -81,26 +79,26 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **24 Hour Clock**
 - SuitSaver
   - **Your Last Used Suit Is Saved**
-#### - HUD
+#### - HUD (3)
 - AccurateStaminaDisplay
   - **Accurate Presentation of Your Current Stamina Percentage**
 - CrossHair
   - **Crosshair**
 - ShipLoot
   - **Total Scrap Value Displayed When Scanning on Ship**
-#### - Keybinds
+#### - Keybinds (3)
 - FlashlightToggle
   - **Flashlight Toggle**
 - WalkieUse
   - **Walkie Push-To-Talk**
 - ToggleMute
   - **Mute Toggle**
-#### - Scan
+#### - Scan (2)
 - GoodItemScan
   - **Better Item Scan**
 - ScannableTools
   - **Scannable Tools**
-#### - Graphical Elements
+#### - Graphical Elements (5)
 - DiscountAlert
   - **Store Discount Notifier**
 - OdinSerializer _(Dependency)_
@@ -109,7 +107,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **More Detailed Performance Report (Cause of Death)**
 - BetterPaycheck
   - **Paycheck UI Rework (Readability Improved)**
-#### - Ship
+#### - Ship (4)
 - OpenBodyCams
   - **First Person View of Players, on Second Large Monitor**
 - ShipWindows
@@ -118,13 +116,13 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **New Visuals When in Orbit**
 - SnapRotateFurniture
   - **45-Degree Furniture Rotation**
-#### - Terminal
+#### - Terminal (3)
 - TerminalApi _(Dependency)_
 - Terminal History
   - **Terminal Command History**
 - TimeCommand
   - **Terminal Time Command**
-#### - Spectator
+#### - Spectator (4)
 - BetterSpectate
   - **First Person View in Spectator**
   - **Third Person Zoom in Spectator**
@@ -135,7 +133,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Visible Death Cause on Spectator Screen**
 - WhoVoted
   - **Vote Badge on Spectator Screen**
-#### - Hosting
+#### - Hosting (4)
 - LobbyControl
   - **Late Joining, Configurable Lobby Name and Visibility**
   - **Autosave Toggle, Force Save, Hotload**
@@ -148,7 +146,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Bug Fixes/Improvements**
 - AntiCheat
   - **Cheat Detection**
-#### - Bug Fixes/Improvements/Performance
+#### - Bug Fixes/Improvements/Performance (26)
 - HookGenPatcher _(Dependency)_
 - HarmonyXTranspilerFix _(Dependency)_
 - No Console Spam

@@ -1,3 +1,8 @@
+## 2.7.0
+- [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.6.0 > 2.7.0_
+- [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.4.0 > 2.4.1_
+- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.3.1 > 2.3.2_
+
 ## 2.6.2
 - Version Text fixed
 

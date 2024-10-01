@@ -1,3 +1,4 @@
+
 ## 2.3
 ### 2.3.0
 - Configs added
@@ -14,6 +15,11 @@
 - Mods updated (2)
   - **AntiCheat** _0.7.4 > 0.7.5_
   - **FurnitureLock** _1.3.1 > 1.3.2_
+### 2.3.2
+- Configs changed
+  - _**AntiCheat**_
+    - _OnlyOneVote_ **true > false**
+      - _currently brakes the vote, probably_
 
 ## 2.2
 ### 2.2.0

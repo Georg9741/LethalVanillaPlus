@@ -1,3 +1,18 @@
+## 2.7
+### 2.7.0
+- Mods added
+  - **LobbyImprovements** _1.0.3_
+- Mods removed
+  - **Better Lobbies** _(replaced by **LobbyImprovements**)_
+- Configs changed
+  - _**Darkbrewery.Emblem**_
+    - _Lethal Company logo in loading screen removed_
+  - **GeneralImprovements**
+    - _Item pick up before game start currently buggy, disabled_
+- Mods updated (2)
+  - **OpenBodyCams** _2.3.1 > 2.4.3_
+  - **LethalConfig** _1.4.2 > 1.4.3_
+
 ## 2.6
 ### 2.6.0
 - Mods added

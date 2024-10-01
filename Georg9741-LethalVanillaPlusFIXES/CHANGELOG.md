@@ -23,6 +23,10 @@
   - **Matty_Fixes_Experimental** _1.1.16 > 1.1.24_
   - **No_Console_Spam** _1.4.0 > 1.5.0_
   - **TestAccountCore** _1.8.0 > 1.8.2_
+### 2.4.1
+- Mods updated (2)
+  - **EnemySoundFixes** _1.5.9 > 1.5.10_
+  - **LethalFixes** _1.2.2 > 1.2.3_
 
 ## 2.3
 ### 2.3.0
@@ -30,8 +34,8 @@
   - **LetMeLookDown** (replaced by **GI**)
 - Configs changed
   - _**butterystancakes.lethalcompany.butteryfixes**_
-    - KeysAreScrap = true
-    - FancyEntranceDoors = true
+    - _KeysAreScrap_ **false > true**
+    - _FancyEntranceDoors_ **false > true**
 - Mods updated (5)
   - **CullFactory** _1.3.0 > 1.3.2_
   - **TestAccountCore** _1.6.0 > 1.8.0_
