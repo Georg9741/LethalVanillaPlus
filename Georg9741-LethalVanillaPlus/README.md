@@ -12,7 +12,7 @@ include your own config files for more customization (Should overwrite existing 
 _(I recommend to not include mods that are already in the dependencies of my packages)_
 
 ### Thunderstore Import Code
-`WILL BE ADDED` _v2.7.0_
+`01924a1e-a2d8-8cd2-34cc-1c9e4f287053` _v2.7.0_
 
 
 ## Summary
