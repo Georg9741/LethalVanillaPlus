@@ -54,6 +54,7 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
   - [2 >> Main Menu << 2]
     - bFixMenuPanels = true
   - [3 >> Custom Version Text << 3]
+    - sVersionText = v$VERSION\n[LethalVanillaPlus v2.7.1]
     - fVersionTextSize = 16
 - ShaosilGaming.GeneralImprovements _v1.4.4_
   -  [ExtraMonitors]
@@ -94,7 +95,7 @@ This package includes the core mods contained within [LethalVanillaPlus](https:/
     - SaveShipFurniturePlaces = None
     - SnapObjectsByDegrees = 0
   - [Terminal]
-    - TerminalHistoryItemCount = 0
+    - ShowMoonPricesInTerminal = true
   - [UI]
     - DisplayKgInsteadOfLb = true
     - HideEmptySubtextOfScanNodes = false

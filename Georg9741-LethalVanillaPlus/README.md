@@ -12,7 +12,7 @@ include your own config files for more customization (Should overwrite existing 
 _(I recommend to not include mods that are already in the dependencies of my packages)_
 
 ### Thunderstore Import Code
-`01924a1e-a2d8-8cd2-34cc-1c9e4f287053` _v2.7.0_
+`0193efbc-bdf1-d64d-0134-300c8aa25187` _v2.7.1_
 
 
 ## Summary
@@ -40,8 +40,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
 - Manuel Inventory Fix: `,` _(Activating the fix manually will cause you to enter the glitched state!)_
 
 
-## Mods: 68 (72)
-#### - Game (9)
+## Mods: 69
+#### - Game (10)
 - LethalRichPresence
   - **Detailed Discord Activity/Rich Presence**
 - IntroTweaks
@@ -54,6 +54,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **In-Game Config Menu**
 - LethalCompany InputUtils
   - **In-Game Keybinds Menu**
+- LethalModDataLib _(Dependency)_
 - LobbyImprovements
   - **Invite Only Lobbies**
   - **Lobby Codes**
@@ -68,6 +69,7 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **More Monitor Information**
   - **Health Metric**
   - **Weight in Kilograms**
+  - **Terminal Command History**
 #### - Gameplay (4)
 - NameplateTweaks
   - **Better Nameplate Visibility**
@@ -116,10 +118,8 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **New Visuals When in Orbit**
 - SnapRotateFurniture
   - **45-Degree Furniture Rotation**
-#### - Terminal (3)
+#### - Terminal (2)
 - TerminalApi _(Dependency)_
-- Terminal History
-  - **Terminal Command History**
 - TimeCommand
   - **Terminal Time Command**
 #### - Spectator (4)
@@ -146,30 +146,31 @@ _(I recommend to not include mods that are already in the dependencies of my pac
   - **Bug Fixes/Improvements**
 - AntiCheat
   - **Cheat Detection**
-#### - Bug Fixes/Improvements/Performance (26)
+#### - Bug Fixes/Improvements/Performance (27)
 - HookGenPatcher _(Dependency)_
 - HarmonyXTranspilerFix _(Dependency)_
-- No Console Spam
-- Loadstone
+- TestAccountCore _(Dependency)_
+- VertexLibrary _(Dependency)_
+- AntiSlimeCamp
+- ApparatusFix
+- AsyncLoggers
 - BarberFixes
-- ButteryFixes
-- EnemySoundFixes
-- JetpackFixes
-- MeleeFixes
-- WeedKillerFixes
-- LethalFixes
 - BepInEx Faster Load AssetBundles Patcher
-- LethalPerformance
+- BetterTerminal
+- ButteryFixes
 - CruiserImproved
 - CullFactory
+- EnemySoundFixes
+- JetpackFixes
 - LCMaxSoundsFix
-- ReverbTriggerFix
-- AsyncLoggers
-- Matty Fixes Experimental
-- ApparatusFix
-- BetterTerminal
-- TerminalConflictFix
-- AntiSlimeCamp
-- TestAccountCore _(Dependency)_
-- TestAccountFixes
+- LethalFixes
+- LethalPerformance
+- Loadstone
+- Matty Fixes
+- MeleeFixes
+- No Console Spam
 - PathfindingLagFix
+- ReverbTriggerFix
+- TerminalConflictFix
+- TestAccountFixes
+- WeedKillerFixes

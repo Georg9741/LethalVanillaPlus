@@ -27,6 +27,21 @@
 - Mods updated (2)
   - **EnemySoundFixes** _1.5.9 > 1.5.10_
   - **LethalFixes** _1.2.2 > 1.2.3_
+### 2.4.2
+- Mods added
+  - **VertexLibrary** _v1.1.0 (Dependency)_
+- Mods updated (11)
+  - **TestAccountCore** _1.8.2 > 1.12.0_
+  - **Matty_Fixes** _1.1.24 > 1.1.31 (Experimental > Stable)_
+  - **AsyncLoggers** _2.1.2 > 2.1.3_
+  - **CullFactory** _1.3.15 > 1.5.0_
+  - **LethalPerformance** _0.4.0 > 0.5.0_
+  - **BepInEx Faster Load AssetBundles Patcher** _0.6.4 > 0.6.5_
+  - **LethalFixes** _1.2.3 > 1.2.4_
+  - **ButteryFixes** _1.10.2 > 1.10.10_
+  - **BarberFixes** _1.1.0 > 1.2.2_
+  - **Loadstone** _0.1.14 > 0.1.16_
+  - **No_Console_Spam** _1.5.0 > 1.6.0_
 
 ## 2.3
 ### 2.3.0

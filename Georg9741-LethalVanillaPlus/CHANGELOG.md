@@ -1,7 +1,12 @@
+## 2.7.1
+- [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.7.0 > 2.7.1_
+- [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.4.1 > 2.4.2_
+- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusHOST/changelog/) _2.3.2 > 2.3.3_
+
 ## 2.7.0
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.6.0 > 2.7.0_
 - [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.4.0 > 2.4.1_
-- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.3.1 > 2.3.2_
+- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusHOST/changelog/) _2.3.1 > 2.3.2_
 
 ## 2.6.2
 - Version Text fixed
@@ -12,12 +17,12 @@
 ## 2.6.0
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.5.0 > 2.6.0_
 - [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.3.0 > 2.4.0_
-- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.3.0 > 2.3.1_
+- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusHOST/changelog/) _2.3.0 > 2.3.1_
 
 ## 2.5.0
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.4.3 > 2.5.0_
 - [FIXES Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.2.5 > 2.3.0_
-- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusFIXES/changelog/) _2.2.2 > 2.3.0_
+- [HOST Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusHOST/changelog/) _2.2.2 > 2.3.0_
 
 ## 2.4.3
 - [CORE Package](https://thunderstore.io/c/lethal-company/p/Georg9741/LethalVanillaPlusCORE/changelog/) _2.4.2 > 2.4.3_

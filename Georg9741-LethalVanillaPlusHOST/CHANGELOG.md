@@ -1,4 +1,3 @@
-
 ## 2.3
 ### 2.3.0
 - Configs added
@@ -20,6 +19,14 @@
   - _**AntiCheat**_
     - _OnlyOneVote_ **true > false**
       - _currently brakes the vote, probably_
+### 2.3.3
+- Configs changed
+  - _**mattymatty.FurnitureLock**_
+    - _Bunkbeds spawn_stored_ **true > false**
+- Mods updated (3)
+  - **AntiCheat** _0.7.5 > 0.7.8_
+  - **FurnitureLock** _1.3.2 > 1.3.6_
+  - **LobbyControl** _2.4.4 > 2.4.10_
 
 ## 2.2
 ### 2.2.0

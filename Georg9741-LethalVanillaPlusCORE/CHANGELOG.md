@@ -7,11 +7,29 @@
 - Configs changed
   - _**Darkbrewery.Emblem**_
     - _Lethal Company logo in loading screen removed_
-  - **GeneralImprovements**
+  - _**GeneralImprovements**_
     - _Item pick up before game start currently buggy, disabled_
 - Mods updated (2)
   - **OpenBodyCams** _2.3.1 > 2.4.3_
   - **LethalConfig** _1.4.2 > 1.4.3_
+### 2.7.1
+- Mods added
+  - **LethalModDataLib** _v1.2.2 (Dependency)_
+- Mods removed
+  - **Terminal History** _(replaced by **GeneralImprovements**)_
+- Configs changed
+  - _**GeneralImprovements**_
+    - _TerminalHistoryItemCount_ **0 > 20 (default)**
+    - _ShowMoonPricesInTerminal_ **false > true**
+- Mods updated (8)
+  - **ShipWindows** _1.10.2 > 1.11.0_
+  - **OpenBodyCams** _2.4.3 > 3.0.3_
+  - **ScannableTools** _1.1.3 > 1.1.4_
+  - **GoodItemScan** _1.9.0 > 1.12.0_
+  - **AccurateStaminaDisplay** _2.1.3 > 2.2.0_
+  - **LCUltrawide Community** _1.1.2 > 1.1.3_
+  - **LobbyImprovements** _1.0.3 > 1.0.7_
+  - **Emblem** _1.5.3 > 1.6.4_
 
 ## 2.6
 ### 2.6.0
@@ -21,11 +39,12 @@
 - Mods removed
   - **VoiceHUD** (already included in **LethalFixes**)
 - Configs added/changed/updated (7)
-- Mods updated (4)
+- Mods updated (5)
   - **GeneralImprovements** _1.3.6 > 1.4.4_
   - **OpenBodyCams** _2.2.4 > 2.3.1_
   - **Coroner** _2.1.0 > 2.2.0_
   - **ScannableTools** _1.1.2 > 1.1.3_
+  - **GoodItemScan** _1.9.0 > 1.10.0_
 
 ## 2.5
 ### 2.5.0
@@ -71,7 +90,7 @@
     - _Visibility Inside_ **0.2 > 0.25**
   - _**TestAccount666.GoodItemScan**_
     - Config updated
-    - _Scan Nodes Hard Limit_ Default value: **666 > 120**
+    - _Scan Nodes Hard Limit_ **666 > 120 (new default)**
   - _**TestAccount666.ShipWindows**_
     - Config updated
 - Configs removed
